@@ -121,3 +121,11 @@ Drill-through pages
 Dynamic tooltips
 
 Advanced slicers
+
+📸 Dashboard Preview
+
+This screenshot shows a Power BI dashboard designed to present key insights in a clear and interactive manner. The dashboard combines multiple visualizations such as KPI cards, charts, and filters to help users quickly understand patterns, trends, and performance metrics.
+
+The report supports interactive exploration, allowing users to filter data dynamically and analyze results from different perspectives. It is built with a focus on data clarity, usability, and decision-making.
+<img width="1918" height="977" alt="image" src="https://github.com/user-attachments/assets/92a3c793-e838-4b32-a26c-86b3786e28b1" />
+
